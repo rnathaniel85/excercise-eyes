@@ -1,4 +1,4 @@
-#Eyes
+# Eyes
 ## Eyes Excercise
 <img src= "eyesThumbnail.png" width= '300px' />
 
