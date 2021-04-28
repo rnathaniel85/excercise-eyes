@@ -1,5 +1,5 @@
 # Eyes
-## Eyes Excercise
+## Eyes Exercise
 <img src= "eyesThumbnail.png" width= '300px' />
 
 # Description
